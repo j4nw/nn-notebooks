@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 
 */results/*.png
+
+*/__pycache__/
